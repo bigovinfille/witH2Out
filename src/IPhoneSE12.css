@@ -1,0 +1,76 @@
+.iphone-se-12-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.29);
+    width: 320px;
+    height: 568px;
+  }
+  .iphone-se-12-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 189px;
+    height: 194px;
+    cursor: pointer;
+  }
+  .vuesaxlineartextalign-justif-icon {
+    position: absolute;
+    top: 18px;
+    left: 21px;
+    width: 24px;
+    height: 24px;
+  }
+  .water-temperature {
+    position: absolute;
+    top: 50px;
+    left: 31px;
+    cursor: pointer;
+  }
+  .eco-tips,
+  .endangered-species,
+  .water-conditions {
+    position: absolute;
+    top: 152px;
+    left: 34px;
+    cursor: pointer;
+  }
+  .eco-tips,
+  .endangered-species {
+    top: 85px;
+    left: 24px;
+  }
+  .eco-tips {
+    top: 121px;
+    left: 62px;
+  }
+  .iphone-se-12-child1,
+  .iphone-se-12-inner,
+  .line-div {
+    position: absolute;
+    top: 76.5px;
+    left: -0.5px;
+    border-top: 1px solid #acacac;
+    box-sizing: border-box;
+    width: 189.04px;
+    height: 1px;
+  }
+  .iphone-se-12-child1,
+  .line-div {
+    top: 112.5px;
+  }
+  .iphone-se-12-child1 {
+    top: 145.5px;
+  }
+  .iphone-se-12 {
+    position: relative;
+    background-color: rgba(26, 26, 26, 0.17);
+    width: 100%;
+    height: 568px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 14px;
+    color: #000;
+    font-family: Manrope;
+  }
+  

@@ -1,0 +1,112 @@
+
+
+
+.vuesaxlineartextalign-justif-icon {
+    position: absolute;
+    top: 25px;
+    left: 20px;
+    width: 24px;
+    height: 24px;
+  }
+  .iphone-se-13-child {
+    position: absolute;
+    top: 67px;
+    left: 0;
+    background-color: #5ab5c9;
+    width: 320px;
+    height: 501px;
+  }
+  .iphone-se-13-item {
+    position: absolute;
+    top: 21px;
+    left: 70px;
+    border-radius: 10px;
+    background-color: #d9d9d9;
+    width: 179px;
+    height: 33px;
+  }
+  .span {
+    font-size: 24px;
+    font-family: Coiny;
+  }
+  .san-francisco-bay-container {
+    position: absolute;
+    top: 23px;
+    left: 114px;
+  }
+  .circle-plus-1-icon,
+  .magnifying-glass-1-icon {
+    position: absolute;
+    top: 28px;
+    left: 79px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+  }
+  .circle-plus-1-icon {
+    top: 25px;
+    left: 273px;
+    width: 24px;
+    height: 24px;
+  }
+  .iphone-se-13-inner {
+    position: absolute;
+    top: 175px;
+    left: 70px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    width: 186px;
+    height: 181px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 64px;
+    left: 0;
+    background-color: #f2f2f2;
+    border: 1px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 320px;
+    height: 174px;
+    cursor: pointer;
+  }
+  .san-francisco-bay-container1 {
+    position: absolute;
+    top: 73px;
+    left: 23px;
+    display: inline-block;
+    width: 116px;
+    height: 21px;
+    cursor: pointer;
+  }
+  .san-pablo-bay-container {
+    position: absolute;
+    top: 128px;
+    left: 24px;
+  }
+  .san-leandro-bay-container {
+    position: absolute;
+    top: 99px;
+    left: 23px;
+  }
+  .san-rafael-bay-container,
+  .suisun-bay {
+    position: absolute;
+    top: 157px;
+    left: 22px;
+  }
+  .suisun-bay {
+    top: 186px;
+    left: 23px;
+  }
+  .iphone-se-13 {
+    position: relative;
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 568px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 14px;
+    color: #000;
+    font-family: Manrope;
+  }
+  

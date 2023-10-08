@@ -1,0 +1,57 @@
+.with2out {
+    position: absolute;
+    top: 93px;
+    left: 42px;
+    display: inline-block;
+    width: 235px;
+    height: 50px;
+  }
+  .group-child {
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    background-color: #5ab5c9;
+    width: 246px;
+    height: 43px;
+  }
+  .group-child,
+  .group-item,
+  .start {
+    position: absolute;
+    cursor: pointer;
+  }
+  .group-item {
+    border: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    width: 246px;
+    height: 43px;
+  }
+  .start {
+    top: 8px;
+    left: 96px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 446px;
+    left: 37px;
+    width: 246px;
+    height: 43px;
+    font-size: 20px;
+    color: #5ab5c9;
+  }
+  .iphone-se-1 {
+    position: relative;
+    background-color: #5ab5c9;
+    width: 100%;
+    height: 568px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 40px;
+    color: #e9e9ea;
+    font-family: Coiny;
+  }
+  

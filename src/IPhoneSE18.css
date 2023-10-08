@@ -1,0 +1,108 @@
+
+.sort-down-1-icon {
+    position: absolute;
+    top: 14px;
+    left: 125px;
+    width: 76px;
+    height: 56px;
+    overflow: hidden;
+  }
+  .endangered-species-in {
+    position: absolute;
+    top: 79px;
+    left: 44px;
+    font-size: 16px;
+    font-family: Coiny;
+    color: #454545;
+    display: inline-block;
+    width: 238px;
+    height: 39px;
+  }
+  .iphone-se-18-child {
+    top: 148px;
+    object-fit: cover;
+  }
+  .iphone-se-18-child,
+  .iphone-se-18-inner,
+  .rectangle-icon,
+  .shadow {
+    position: absolute;
+    left: 43px;
+    border-radius: 10px;
+    width: 239px;
+    height: 148px;
+  }
+  .iphone-se-18-inner {
+    top: 339px;
+    object-fit: cover;
+  }
+  .rectangle-icon,
+  .shadow {
+    top: 526px;
+  }
+  .rectangle-icon {
+    object-fit: cover;
+  }
+  .shadow {
+    background: linear-gradient(180deg, #000, transparent 29.69%);
+  }
+  .black-abalone {
+    position: absolute;
+    top: 536px;
+    left: 61px;
+    font-weight: 500;
+  }
+  .shadow1,
+  .shadow2 {
+    position: absolute;
+    top: 148px;
+    left: 43px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #000, transparent 29.69%);
+    width: 239px;
+    height: 148px;
+  }
+  .shadow2 {
+    top: 335px;
+    left: 44px;
+  }
+  .california-red-legged-frog,
+  .coho-salmon {
+    position: absolute;
+    top: 155px;
+    left: 61px;
+    font-weight: 500;
+  }
+  .california-red-legged-frog {
+    top: 346px;
+    left: 62px;
+  }
+  .logo-1-icon {
+    position: absolute;
+    top: 779px;
+    left: 69px;
+    width: 168px;
+    height: 183px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .more-info-here {
+    position: absolute;
+    top: 734px;
+    left: 90px;
+    font-size: 16px;
+    font-family: Coiny;
+    color: #000;
+  }
+  .iphone-se-18 {
+    position: relative;
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 977px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 14px;
+    color: #f2f2f2;
+    font-family: Manrope;
+  }
+  
