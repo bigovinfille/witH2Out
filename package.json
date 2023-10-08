@@ -1,7 +1,7 @@
 {
+  "homepage": "http://bigovinfille.github.io/witH2Out",
   "name": "dojo-blog",
   "version": "0.1.0",
-  "homepage": "bigovinfille.github.io/witH2Out",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
